@@ -1,6 +1,13 @@
+function deduct( a, b) {
+    let number1 = a;
+    let number2 = b;
+    let answer = number1 - number2;
+    return answer;
+}
+
 function sum(a, b) {
     let value1 = a;
-    let value2 = a;
+    let value2 = b;
     let result = valueA + valueB;
     return result;
 }
