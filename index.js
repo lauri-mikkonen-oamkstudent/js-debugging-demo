@@ -8,7 +8,7 @@ function deduct( a, b) {
 function sum(a, b) {
     let value1 = a;
     let value2 = b;
-    let result = valueA + valueB;
+    let result = a + b;
     return result;
 }
 
@@ -16,7 +16,7 @@ function max(a, b) {
     if (a > b) {
         return a;
     } else {
-        return a;
+        return b;
     }
 }
 
